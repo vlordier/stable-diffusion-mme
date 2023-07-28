@@ -1,0 +1,3 @@
+engine=Python
+option.s3url={{ s3url }}
+option.dtype=fp16
